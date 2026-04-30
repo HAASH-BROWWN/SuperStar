@@ -1,4 +1,4 @@
-name: 刷课
+namely: 刷课
  
 on: 
   push:
@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 19923353175 -p SMY&1qa2ws3ed -l 263040190 #课程id，默认为心理课的
+        run: python main.py -u 19923353175 -p SMY1qa2ws3ed -l 263040190 #课程id，默认为心理课的
